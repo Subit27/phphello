@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azuremaster!";
+echo "Hello Azuremaster!0001";
